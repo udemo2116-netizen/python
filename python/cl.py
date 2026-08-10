@@ -5,7 +5,7 @@ import threading
 
 # Configuration
 SERVER_IP = "fnlfoegzpd.localto.net"
-SERVER_PORT = 4446
+SERVER_PORT = 6902
 
 def s2p(s, p):
     try:
